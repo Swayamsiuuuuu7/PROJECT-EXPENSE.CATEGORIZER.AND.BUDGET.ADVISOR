@@ -41,7 +41,8 @@ Example: Pizza 300
 
 * Pie chart showing expense distribution
   <img width="436" height="410" alt="image" src="https://github.com/user-attachments/assets/827f337f-74b2-439b-824d-e1d60f89f37c" />
-  🌍 SDG Alignment
+
+ 🌍 SDG Alignment
 
 This project supports:
 
